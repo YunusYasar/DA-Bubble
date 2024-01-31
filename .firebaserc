@@ -1,0 +1,12 @@
+{
+   "targets": {
+      "da-bubble-ba627": {
+         "hosting": {
+            "DaBubble": ["da-bubble-ba627"]
+         }
+      }
+   },
+   "projects": {
+      "default": "da-bubble-ba627"
+   }
+}
